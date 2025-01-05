@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Quy 👋
+
+💻 Data Scientist enthusiast, having 1 year of experience through projects and internship.
+
+🧑‍💻 Freshman studying Computer Science & Electrical Engineering at [Tampere University, Finland](https://www.youtube.com/watch?v=0m1c5nAUaqc&t=1s&ab_channel=AleksiHimself-VideosaboutFinland).
+
+🎯 Currently learning and researching about Deep Learning in Scientific Computing.
+
+⚡ Love running, half-marathon for example.
+
+
 
 <!--
 **minhquyminhquy/minhquyminhquy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
