@@ -1,6 +1,6 @@
 ## Hi, I'm Quy 👋
 
-💻 Data Scientist enthusiast, having 1 year of experience through projects and internship.
+💻 Data Scientist enthusiast (still exploring my interest btw).
 
 🧑‍💻 Freshman studying Computer Science & Electrical Engineering at [Tampere University, Finland](https://www.youtube.com/watch?v=0m1c5nAUaqc&t=1s&ab_channel=AleksiHimself-VideosaboutFinland).
 
