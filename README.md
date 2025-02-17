@@ -6,7 +6,7 @@
 
 🎯 Currently learning and researching about Deep Learning in Scientific Computing.
 
-⚡ Love running, half-marathon for example.
+⚡ Love running, half-marathon for example.🔥🔥🔥
 
 <!--[![Quy's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhquyminhquy)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhquyminhquy&show_icons=true&theme=radical) -->
