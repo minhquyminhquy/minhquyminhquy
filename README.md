@@ -1,10 +1,10 @@
 ## Hi, I'm Quy 👋
 
-💻 Data Scientist enthusiast (still exploring my interest btw).
+💻 Software Engineering enthusiast (still exploring my interest btw).
 
 🧑‍💻 Freshman studying Computer Science & Electrical Engineering at [Tampere University, Finland](https://www.youtube.com/watch?v=0m1c5nAUaqc&t=1s&ab_channel=AleksiHimself-VideosaboutFinland).
 
-🎯 Currently learning and researching about Deep Learning in Scientific Computing.
+🎯 Currently learning Fullstack Web Development and researching about Deep Learning in Scientific Computing.
 
 ⚡ Love running, half-marathon for example.🔥🔥🔥
 
